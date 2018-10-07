@@ -11,7 +11,7 @@ namespace GitHubWebhookDeployTest.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "Testing of function trigerred on automated deploy while commit. No.2" };
+            return new string[] { "Test GitHub Webhook Deploy scenario producing an email sent." };
         }
 
         // GET api/values/5
