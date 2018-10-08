@@ -11,7 +11,7 @@ namespace GitHubWebhookDeployTest.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "Test GitHub Webhook Deploy scenario producing an email sent." };
+            return new string[] { "Test GitHub Webhook Deploy scenario producing an email sent. Does it work now?" };
         }
 
         // GET api/values/5
