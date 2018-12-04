@@ -2,4 +2,4 @@
 
 
 
-PizzaTalk, Do you readme.md? 
+PizzaTalk, do you readme.md? 
